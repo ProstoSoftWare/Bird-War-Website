@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Official Bird War Design Kit">
+    <meta name="author" content="Prosto_Kust">
+    <meta name="generator" content="Bird War Design Kit">
+    <title>Набор для дизайна - Bird War</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/starter-template/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="starter-template.css" rel="stylesheet">
+  </head>
+  <body>
+    
+<div class="col-lg-8 mx-auto p-3 py-md-5">
+  <header class="d-flex align-items-center pb-3 mb-5 border-bottom">
+    <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+      <img src="birdwar.png"alt="Логотип Bird War"
+  width="65"
+  height="65"/>
+      <span class="fs-4">ㅤНабор для дизайна</span>
+    </a>
+  </header>
+
+  <main>
+    <h1>Готовы к творчеству?</h1>
+    <p class="fs-5 col-md-8">Быстро и легко начните с скомпилированными, готовыми к работе файлами Bird War с помощью наших текстур и иконок. Скачайте набор для дизайна Bird War, чтобы начать</p>
+
+    <div class="mb-5">
+      <a href="./birdwardk.zip" class="btn btn-primary btn-lg px-4">Скачать бесплатно</a>ㅤПоследняя версия: 0.1
+    </div>
+
+    <hr class="col-3 col-md-2 mb-5">
+
+    <div class="row g-5">
+      <div class="col-md-6">
+        <h2>Готовые проекты</h2>
+        <p>Готовы выйти за рамки стартового шаблона? Ознакомьтесь с этими проектами!</p>
+        <ul class="icon-list">
+          <li><a href="https://github.com/birdwar" rel="noopener" target="_blank">Ледяное сражение птиц</a></li>
+          <li class="text-muted">Птицы на отдыхе (Уже скоро)</li>
+        </ul>
+      </div>
+
+      <div class="col-md-6">
+        <h2>Руководство</h2>
+        <p>Ознакомьтесь с более подробными инструкциями и документацией по использованию набора для дизайна Bird War или внесению в него вклада</p>
+        <ul class="icon-list">
+          <li><a href="./getting-started/introduction/">Начало работы Bird War</a></li>
+          <li><a href="./getting-started/webpack/">Начало работы с веб-сайтом</a></li>
+          <li><a href="./getting-started/parcel/">Файлы .meta, что это?</a></li>
+          <li><a href="./getting-started/build-tools/">Внести вклад в Bird War</a></li>
+        </ul>
+      </div>
+    </div>
+  </main>
+  <footer class="pt-5 my-5 text-muted border-top">
+    Созданно командой Bird War &middot; &copy; 2024
+  </footer>
+</div>
+
+
+    <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
+
+      
+  </body>
+</html>
